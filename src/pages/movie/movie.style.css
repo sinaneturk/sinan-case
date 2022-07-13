@@ -1,0 +1,31 @@
+.home-container {
+    padding: 20px;
+}
+
+h6.content-title {
+    font-size: 17px;
+    border-bottom: 1px solid;
+    color: gray;
+}
+
+p.content {
+    text-align: justify;
+    color: gray;
+}
+
+.movie-info {
+    display: flex;
+}
+
+img {
+    width: 100%;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+}
+
+.poster-container {
+    max-width: 1000px;
+}
